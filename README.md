@@ -82,9 +82,6 @@ Visitor-Counter-System/
 ├── Processing/
 │   └── VisitorCounterGUI.pde
 │
-├── Documentation/
-│   └── Visitor_Counter_Report.pdf
-│
 └── README.md
 ```
 
@@ -96,7 +93,7 @@ The complete project documentation is available here:
 
 📄 **Project Report**
 
-> Documentation/Visitor_Counter_Report.pdf
+> *https://drive.google.com/file/d/1Nhkr1sqGsCPVhyi6MNL609RB2q0AyFvw/view?usp=drivesdk*
 
 ---
 
